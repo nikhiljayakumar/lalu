@@ -2,7 +2,7 @@
 
 An Arithmetic Logic Unit that can add, subtract, load, store, and move 16 bit numbers. 
 
-Created through [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution) in the Digital Electronics class at LASA.
+Created through [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution) in the [Digital Electronics](https://lasacs.com/de/) class at LASA.
 
 Subcircuit files must be placed in same directory as LALU, but are seperated for clarity.
 Subcircuits within the 'eightBitAdderFull' circuit need to be changed from 'Logisim-Evolution' to 'Custom' Appearance.
