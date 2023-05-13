@@ -1,0 +1,20 @@
+	sub R0, R0
+	sub R1, R1
+	load R2, R1
+	ldI R3, 1
+	load R0, R2
+	add R2, R3
+t1:	load R1, R2
+	sub R1, R0
+	jumpn t0
+	load R1, R3
+	load R0, R2
+t0: 	add R2, R3
+	add R1, R3
+	mv R3, R2
+	sub R3, R1
+	jumpn t1
+	ldI R3, 1
+	halt
+D:	jmp  D       # DONE !!!
+	nop
