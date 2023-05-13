@@ -7,7 +7,7 @@ Created through [Logisim Evolution](https://github.com/logisim-evolution/logisim
 Subcircuit files must be placed in same directory as LALU, but are seperated for clarity.
 Subcircuits within the 'eightBitAdderFull' circuit need to be changed from 'Logisim-Evolution' to 'Custom' Appearance.
 
-Python file coding instructions to hex (provided by teacher)
+Python file coding instructions to hex (provided by teacher).
 Sample program max.txt to find the max of 16bit numbers given a start and end index.
 
 
